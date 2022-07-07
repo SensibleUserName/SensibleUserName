@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SensibleUserName- I am a vCISO for several clients
 - 👀 I’m interested in secure code dec, DevSecOps for my clients ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning TBD
+- 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me stephen@sidechannelsec.com
 
 <!---
